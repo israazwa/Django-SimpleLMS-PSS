@@ -1,10 +1,19 @@
-# Simple LMS - Django Docker
+# 📚 Simple LMS - Django + Docker
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Django](https://img.shields.io/badge/Django-5.0-green?logo=django)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-Compose-lightblue?logo=docker)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+> 🚀 Implementasi **Simple Learning Management System (LMS)** menggunakan **Django**, berjalan di atas **Docker Compose**, dengan **PostgreSQL** sebagai database utama.
+
+---
 
 ## 📌 Deskripsi
 
-Project ini merupakan implementasi Simple Learning Management System (LMS) menggunakan Django yang dijalankan dengan Docker Compose dan PostgreSQL sebagai database.
-
----
+Project ini merupakan implementasi LMS sederhana yang mendukung multi-role user (Admin, Instructor, Student), pengelolaan course & lesson, serta tracking progress.  
+Dibangun 
 
 ## 🚀 Cara Menjalankan
 
@@ -96,5 +105,5 @@ Menggunakan PostgreSQL dengan konfigurasi:
 
 ## 👨‍💻 Author
 
-Nama: Ravicenna Mahardhika
-NIM : A11.2023.15296
+Nama: Isra Shahzada Azwa Saqiba
+NIM : A11.2023.15287
